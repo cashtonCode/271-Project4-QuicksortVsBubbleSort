@@ -1,4 +1,2 @@
 # 271-Project4-QuicksortVsBubbleSort
-BubbleSort - To sort a file of character arrays ( strings ) using the bubble sort sorting method
-vs
-QuickSort  - To sort a file of character arrays ( strings ) using the quicksort sorting method
+To sort a file of character arrays ( strings ) using the bubble sort and the quick sort sorting methods
